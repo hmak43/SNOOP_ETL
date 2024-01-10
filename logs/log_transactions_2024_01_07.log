@@ -1,0 +1,39 @@
+
+Total number of rows in raw file: 6869
+Total number of columns: 10
+Column 1  -->	Name: customerId, DataType : object 
+Column 2  -->	Name: customerName, DataType : object 
+Column 3  -->	Name: transactionId, DataType : object 
+Column 4  -->	Name: transactionDate, DataType : object 
+Column 5  -->	Name: sourceDate, DataType : object 
+Column 6  -->	Name: merchantId, DataType : int64 
+Column 7  -->	Name: categoryId, DataType : int64 
+Column 8  -->	Name: currency, DataType : object 
+Column 9  -->	Name: amount, DataType : object 
+Column 10  -->	Name: description, DataType : object 
+
+Found 5 rows with currency: JPY.
+Found 5 rows with currency: INR.
+Found 1 rows with currency: JPN.
+
+Found 6 incorrect date rows (removed).
+Found 9 duplicate rows (removed).
+Total number of rows in raw file: 6869
+Total number of columns: 10
+Column 1  -->	Name: customerId, DataType : object 
+Column 2  -->	Name: customerName, DataType : object 
+Column 3  -->	Name: transactionId, DataType : object 
+Column 4  -->	Name: transactionDate, DataType : object 
+Column 5  -->	Name: sourceDate, DataType : object 
+Column 6  -->	Name: merchantId, DataType : int64 
+Column 7  -->	Name: categoryId, DataType : int64 
+Column 8  -->	Name: currency, DataType : object 
+Column 9  -->	Name: amount, DataType : object 
+Column 10  -->	Name: description, DataType : object 
+
+Found 5 rows with currency: JPY.
+Found 5 rows with currency: INR.
+Found 1 rows with currency: JPN.
+
+Found 6 incorrect date rows (removed).
+Found 9 duplicate rows (removed).
